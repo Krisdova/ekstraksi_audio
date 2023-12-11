@@ -1,10 +1,14 @@
-import streamlit as st
-import os
-import librosa
-import numpy as np
-import pandas as pd
-from scipy.stats import skew, kurtosis, mode
-from sklearn.preprocessing import StandardScaler, MinMaxScaler
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.metrics import accuracy_score
-import pickle
+streamlit
+os
+librosa
+numpy
+pandas
+sklearn
+skew
+kurtosis
+mode
+StandardScaler
+MinMaxScaler
+KNeighborsClassifier
+accuracy_score
+pickle
